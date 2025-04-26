@@ -70,3 +70,4 @@ Teaches real-world supply chain use cases.
 
 # RESULT : 
 
+Thus ,the exection of the supply chain Transparency for Luxury Goods has executed Successfully.
