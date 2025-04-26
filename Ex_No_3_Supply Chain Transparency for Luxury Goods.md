@@ -49,6 +49,10 @@ contract LuxurySupplyChain {
 }
 ```
 # Expected Output:
+
+![alt text](<Screenshot 2025-04-18 215823.png>)
+![alt text](<Screenshot 2025-04-18 215859.png>)
+![alt text](<Screenshot 2025-04-18 215933.png>)
 A luxury good (e.g., a Rolex watch) is registered on-chain.
 
 
